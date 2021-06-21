@@ -202,7 +202,8 @@ select {
   }
 
   select {
-    width: 5rem;
+    background-color: #f7fffe;
+    width: 5.5rem;
     font-size: 0.5rem;
   }
 
