@@ -166,12 +166,16 @@ select {
 
   select {
     width: 7rem;
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     height: 2.1rem;
   }
 
   .select::after {
     padding: 0.3rem;
+  }
+
+  .todo {
+    font-size: 1.4rem;
   }
 }
 
@@ -183,18 +187,19 @@ select {
   form input,
   form button {
     padding: 0.3rem;
-    font-size: 1.2rem;
+    font-size: 1.06rem;
   }
 
   .filter-todo {
     padding: 0.4rem;
+    height: 1.8rem;
   }
 
   .trash-btn,
   .complete-btn {
-    padding: 0.4rem;
+    padding: 0.5rem;
 
-    font-size: 0.4rem;
+    font-size: 0.5rem;
   }
 
   .select {
@@ -203,11 +208,15 @@ select {
 
   select {
     background-color: #f7fffe;
-    width: 5.5rem;
-    font-size: 0.5rem;
+    width: 5.8rem;
+    font-size: 0.6rem;
   }
 
   .select::after {
     padding: 0.2rem;
+  }
+
+  .todo {
+    font-size: 1rem;
   }
 }
